@@ -37,7 +37,7 @@ mutagen==1.44.0
 mysqlclient==1.4.6
 odfpy==1.4.1
 openpyxl==2.6.4
-Pillow==7.1.1
+Pillow==8.1.1
 pycryptodomex==3.9.7
 PyJWT==1.7.1
 python-alipay-sdk==1.8.0
